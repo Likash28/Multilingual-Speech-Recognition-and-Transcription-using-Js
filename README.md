@@ -1,11 +1,7 @@
-Here's a README file with emojis included for a more engaging presentation:
-
----
-
 # 🎤 Speech-to-Text Web Application 📝
 
 ## 📄 Overview
-This repository contains a simple yet powerful **Speech-to-Text Web Application** that allows users to convert their spoken words into text in real-time. The application supports multiple languages 🌍 and provides options to download the converted text 🖨️ and clear the results 🗑️.
+This repository contains a simple yet powerful **Speech-to-Text Web Application** that allows users to convert their spoken words into text in real time. The application supports multiple languages 🌍 and provides options to download the converted text 🖨️ and clear the results 🗑️.
 
 ## 🛠️ Technologies Used
 - **HTML**: For the structure of the web page.
@@ -51,7 +47,7 @@ The application supports a wide range of languages including **English, Spanish,
 ## 🤖 How It Works
 The application leverages the **Web Speech API** to perform speech recognition:
 - **Initialization**: When the user clicks the "Start Listening" button, the `SpeechRecognition` object is initialized with the selected language.
-- **Recording**: The speech is captured and converted to text in real-time.
+- **Recording**: The speech is captured and converted to text in real time.
 - **Display**: The recognized text is displayed on the web page, updating dynamically.
 - **Error Handling**: Various error scenarios (like no microphone or permission denial) are handled gracefully.
 
@@ -68,7 +64,7 @@ The application leverages the **Web Speech API** to perform speech recognition:
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have suggestions for improvements or new features.
 
 ## 📞 Contact
-For any questions or feedback, please reach out to us at 📧 **your-email@example.com**.
+For any questions or feedback, please reach out to us at 📧 **gunisettilikash@gmail.com**.
 
 ## 📜 License
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
