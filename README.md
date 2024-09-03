@@ -30,7 +30,7 @@ To run the application locally:
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/yourusername/speech-to-text-app.git
+   git clone https://github.com/Likash28/speech-to-text-app.git
    ```
 2. **Open** the `index.html` file in your favorite web browser.
 
